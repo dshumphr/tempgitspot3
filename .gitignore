@@ -1,0 +1,21 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor temp files
+*.tmp
+*.swp
+*.swo
+*~
+.#*
+\#*#
+
+# autogitlog internal config
+.autogit
+.autogitlog/
+
+# Common artifacts
+*.pyc
+__pycache__/
+node_modules/
