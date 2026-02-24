@@ -1,0 +1,2 @@
+This is a test file to verify autogitlog is working.
+The watcher should detect this change within 15 seconds and commit it after 5 minutes of idle time.
